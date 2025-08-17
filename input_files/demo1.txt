@@ -1,0 +1,10 @@
+this is the demo txt file for email and phone scraper
+John Doe, john.doe@example.com, +91-9876543210
+Jane Smith, jane.smith@gmail.com, +1-555-123-4567
+Alice Brown, alice.brown@example.co.uk, (022) 12345678
+Bob Jones, bob.jones@company.in, +44 20 7946 0958
+Mike Taylor, mike.taylor@example.com, 9876543210
+Emma Wilson, emma.wilson@gmail.com, 123-456-7890
+Oliver Martin, oliver.martin@company.co, +91-9123456789
+Sophia Clark, sophia.clark@example.in, +1-444-555-6677
+Liam Lewis, liam.lewis@gmail.com, (033) 98765432
